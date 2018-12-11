@@ -76,7 +76,7 @@ target/
 celerybeat-schedule
 
 # dotenv
-.env
+.env 
 
 # virtualenv
 venv/
@@ -92,7 +92,6 @@ ENV/
 slim-official/
 train2014
 generated/
-models/
 tensorboard/
 result/
 pretrained/
